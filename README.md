@@ -2,6 +2,8 @@
 
 Lectura local de un inversor Huawei fotovoltaico y visualización de su potencia instantánea en una página web. No necesita acceder a FusionSolar.
 
+Si prefieres consultar los datos desde la terminal, utiliza [inversorlocal](https://github.com/daniconil/inversorlocal). Este repositorio, `inversorlocal-web`, ofrece la alternativa con visualización web.
+
 ## Requisitos
 
 - Python **3.12 o superior**.
